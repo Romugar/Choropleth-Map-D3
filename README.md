@@ -2,6 +2,8 @@
 
 ### Build a Choropleth Map with D3
 
+Try it on Codepen: https://codepen.io/Romugar/pen/bxPEXz
+
 #### Objective
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/EZKqza.
