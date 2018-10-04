@@ -1,6 +1,6 @@
 # Data Visualization Projects: Visualize Data with a Choropleth Map for freecodecamp.org
 
-### Build a Choropleth Map
+### Build a Choropleth Map with D3
 
 #### Objective
 
